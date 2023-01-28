@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Namrata khade
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning html,C programming
+- 🌱 I’m currently learning web development,Data structuresgramming
 - I'm pursuing diploma in computers @Government Polytechnic Pune (GPP)
 
 <!---
